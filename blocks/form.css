@@ -43,10 +43,10 @@
 }
 .form__label {
   padding-top: 32px;
+  font-weight: 500;
 }
 .form__label_type_checkbox {
   display: flex;
   gap: 12px;
   justify-content: center;
-  font-weight: 500;
 }
